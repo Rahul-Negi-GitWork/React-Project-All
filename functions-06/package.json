@@ -1,5 +1,5 @@
 {
-  "name": "ui-project-05",
+  "name": "functions-06",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,12 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.3.3",
-    "lucide-react": "^1.28.0",
     "react": "^19.2.7",
-    "react-dom": "^19.2.7",
-    "remixicon": "^4.9.1",
-    "tailwindcss": "^4.3.3"
+    "react-dom": "^19.2.7"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
